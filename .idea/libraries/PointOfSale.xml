@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PointOfSale">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/PointOfSale.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

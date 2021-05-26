@@ -23,8 +23,8 @@ public class admin extends javax.swing.JFrame {
         String level = login.getLevel();
         label_nama.setText(ID);
         label_level.setText(level);
-        Level();
         tanggal();
+        Level();
     }
     
     public void tanggal(){
